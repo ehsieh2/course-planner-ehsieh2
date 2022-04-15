@@ -3,7 +3,7 @@ import axios from "axios";
 const axiosInstance = axios.create({
   baseURL: "https://courses-api-hw4.herokuapp.com",
   headers: {
-    Authorization: /* TODO Add your JHED */,
+    Authorization: "ehsieh2",
   },
 });
 
