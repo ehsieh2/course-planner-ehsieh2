@@ -7,9 +7,17 @@
     "@material-ui/icons": "^4.11.3",
     "@material-ui/lab": "^4.0.0-alpha.60",
     "axios": "^0.23.0",
+    "easymde": "^2.16.1",
+    "material-ui-search-bar": "^1.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-markdown": "^8.0.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "react-simplemde-editor": "^5.0.2",
+    "remark-gfm": "^3.0.1",
+    "uuid": "^8.3.2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
