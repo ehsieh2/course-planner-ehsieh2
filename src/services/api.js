@@ -62,4 +62,4 @@ async function search(query, page = 1, limit = 20) {
   }
 }
 
-export { setToken, get, getAll, create, remove, update, search };
+export { get, getAll, create, remove, update, search };
