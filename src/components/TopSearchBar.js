@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 
 function TopSearchBar(props) {
   const { query, updateQuery, page } = props;
-
   return (
     <SearchBar
       value={query}

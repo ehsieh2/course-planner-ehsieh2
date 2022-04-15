@@ -58,7 +58,6 @@ class Course extends Component {
 
   componentDidMount() {
     const { course } = this.props;
-
     const { _id, term, status, title, number } = course;
     this.setState({ _id, term, status, title, number });
   }
